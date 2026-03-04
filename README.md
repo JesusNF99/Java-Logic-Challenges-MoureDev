@@ -35,3 +35,8 @@ Since these are standalone Java classes with a `main` method, you can run them d
 ```bash
 javac EJ24.java
 java EJ24
+
+---
+
+## Créditos
+Un agradecimiento especial a **Brais Moure (MoureDev)** por proporcionar estos retos a la comunidad de desarrolladores. Puedes encontrar la hoja de ruta original y más información en [retosdeprogramacion.com](https://retosdeprogramacion.com).
