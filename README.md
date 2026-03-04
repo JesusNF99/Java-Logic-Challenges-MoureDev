@@ -35,7 +35,7 @@ Since these are standalone Java classes with a `main` method, you can run them d
 ```bash
 javac EJ24.java
 java EJ24
-
+```
 ---
 
 ## Créditos
